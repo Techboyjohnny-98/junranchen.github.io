@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-04-28'
-doi: ''
+doi: 'https://doi.org/10.1038/s44172-025-00409-2'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-01T00:00:00Z'
