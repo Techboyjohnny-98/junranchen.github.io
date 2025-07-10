@@ -50,10 +50,10 @@ social:
     link: https://scholar.google.com/citations?user=B8dz7W4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/Techboyjohnny-98
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/junran-chen
+    link: https://linkedin.com/in/junran-chen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
