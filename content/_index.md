@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
+        We are hiring Ph.D. and Master students.
   
   - block: collection
     content:
