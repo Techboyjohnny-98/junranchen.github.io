@@ -5,17 +5,18 @@ title: 'Battery state-of-health estimation using CNNs with transfer learning and
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Maryam Alizadeh
+  - Hao Wang
   - admin
-  - Phillip Kollmeyer
-  - Ryan Ahmed
+  - Atriya Biswas
   - Ali Emadi
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
 
-date: '2025-04-09'
-doi: 'https://doi.org/10.1016/j.apenergy.2025.125923'
+date: '2025-02-04'
+doi: 'https://doi.org/10.1109/TTE.2025.3539251'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-01T00:00:00Z'
@@ -27,10 +28,10 @@ publication_types: ['article-journal']
 # paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: Applied Energy
-publication_short: APEN
+publication: IEEE Transactions on Transportation Electrification
+publication_short: TTE
 
-abstract: Accurate estimation of battery state of health (SOH) is critical for ensuring safe and reliable operation, enabling health-conscious control, and supporting second-life applications. Existing health indicators (HIs) used in data-driven models have practicality, accuracy, and robustness limitations. For instance, partial voltage or incremental capacity curves may lead to misleading SOH estimations, while histogram-based methods require extensive training data. This paper proposes a multi-modal fusion model that integrates two types of HIs extracted from partial voltage curves recorded during charging and histogram data during operation. By addressing the limitations of both types of HIs, the proposed model achieves superior performance in terms of accuracy and robustness. The proposed model is validated on two representative datasets, achieving a root mean squared percentage error (RMSPE) as low as 0.74 %, reducing estimation error by up to 42 % compared to existing models and requiring 60 % less training data. The results demonstrate the feasibility and advantages of combining HIs from different sources, underscoring the importance of detailed feature analysis in developing data-driven models for battery state estimation.
+abstract: This article presents a novel approach to battery thermal management control in electric vehicles (EVs), focusing on the establishment of a power loss model that incorporates temperature and aging effects on internal resistance, thereby enabling accurate estimation of battery power loss for optimized battery thermal management systems (BTMS). In addition, this article introduces a BTMS design capable of both heating and cooling, aiming to maintain optimal battery temperature and enhance battery efficiency and longevity. The proposed methodology includes an offline optimization layer to improve battery longevity and BTMS energy efficiency and an online control layer to maintain a safe battery temperature operation. The adaptability of this BTMS design for real-time applications in various climates is achieved by integrating discharge rate (c-rate) information from the drive cycle. This results in a two-level, driving-aware BTMS control system tailored to varying driving patterns specific to commuter applications. Consequently, this research significantly advances EV battery thermal management by addressing key challenges such as reducing power loss estimation error by up to 28%, optimizing temperature regulation, improving power efficiency by up to 7 kJ for different drive cycles, and enhancing battery aging by more than 3% per life cycle, while ensuring adaptability to various driving patterns for commuters.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -47,7 +48,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/UYPYDJ'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
