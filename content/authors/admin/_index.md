@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Junran Chen
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Junran
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: The University of Texas at Dallas
+    url: 'https://www.utdallas.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Battery modeling, state estimation, aging, management, and applications of artificial intelligence in energy storage system.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy Storage System
+  - Transportation Electrification
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical and Computer Engineering
+      institution: McMaster University (Canada)
+      year: 2025
+    - course: BSc in Electrical Engineering
+      institution: Southeast University (China)
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'dr.junran.chen@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dr.junran.chen@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
