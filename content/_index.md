@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Journal Articles
       text: ""
       count: 5
       filters:
