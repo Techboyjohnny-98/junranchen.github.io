@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Texas Energy Advancement (TEA) Lab
+        Battery, Energy, Transportation, and AI (BETA) Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        *TEA Lab* are hiring Ph.D. and Master students.
+        Welcome to the **BETA Lab** at The University of Texas at Dallas — where we conduct cutting-edge research in battery systems, energy storage, transportation electrification, and artificial intelligence. From advanced modeling and estimation to intelligent control and system integration, our mission is to accelerate the transition to smart, reliable, and sustainable energy and mobility technologies.
   
   - block: collection
     content:
