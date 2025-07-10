@@ -1,6 +1,10 @@
 ---
-title: We are founded!
-date: 2025-08-01
+title: "We are founded!"
+date: 2025-08-01T00:00:00
+draft: false
+summary: "Junran Chen will join UT Dallas in Fall 2025 as Assistant Professor."
+authors: ["admin"]
+tags: ["news", "announcement"]
 ---
 
 Junran Chen will join UT Dallas in 2025 Fall.
