@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Junran's
-        Research Group
+        Texas Energy Advancement (TEA) Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        We are hiring Ph.D. and Master students.
+        *TEA Lab* are hiring Ph.D. and Master students.
   
   - block: collection
     content:
