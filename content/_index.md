@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Battery, Energy, Transportation, and AI (BETA) Lab
+        Battery, Energy, Transportation, & AI (BETA) Lab
       image:
         filename: welcome.jpg
       text: |
