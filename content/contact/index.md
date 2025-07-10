@@ -13,7 +13,7 @@ sections:
       email: dr.junran.chen@gmail.com
       phone: +1-2898872204
       address:
-        street: 800 W Campbell Rd
+        street: ECSN 3.518, 800 W Campbell Rd
         city: Richardson
         region: TX
         postcode: '75080'
@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '32.98599246931516'
         longitude: '-96.75060935294363'
-      office: ECSN 3.518
+      # direction: 
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
