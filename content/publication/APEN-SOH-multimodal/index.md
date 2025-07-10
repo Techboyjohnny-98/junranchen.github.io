@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2025-04-09'
-doi: ''
+doi: 'https://doi.org/10.1016/j.apenergy.2025.125923'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-01T00:00:00Z'
