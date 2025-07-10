@@ -41,16 +41,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'dr.junran.chen@gmail.com'
+    link: 'mailto:dr.junran.chen@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=B8dz7W4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/junran-chen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +64,7 @@ social:
 email: 'dr.junran.chen@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prof. Junran Chen received his B.Eng. degree from Southeast University, China, in 2020. He then joined McMaster University in Canada, where he earned a direct-entry Ph.D. degree in Electrical and Computer Engineering in 2025, with his research conducted at the McMaster Automotive Resource Centre (MARC).
+ 
+In 2025, he joined the Erik Jonsson School of Engineering and Computer Science at The University of Texas at Dallas as an Assistant Professor in the Department of Electrical and Computer Engineering. His research interests include battery modeling, state estimation, aging mechanisms, battery management systems, and the application of artificial intelligence in energy storage and electrified transportation.
