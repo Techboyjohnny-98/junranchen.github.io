@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Prof. Junran Chen received his B.Eng. degree from Southeast University, China, in 2020. He then joined McMaster University in Canada, where he earned a direct-entry Ph.D. degree in Electrical and Computer Engineering in 2025, with his research conducted at the McMaster Automotive Resource Centre (MARC).
