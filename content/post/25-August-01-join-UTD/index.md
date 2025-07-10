@@ -1,6 +1,6 @@
 ---
 title: We are founded!
-date: 2025-August-01
+date: 2025-08-01
 ---
 
 Junran Chen will join UT Dallas in 2025 Fall.

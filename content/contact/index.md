@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2025-July-10
+date: 2025-07-10
 
 type: landing
 
