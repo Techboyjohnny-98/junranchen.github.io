@@ -1,5 +1,5 @@
 ---
-title: 'Battery state-of-health estimation using CNNs with transfer learning and multi-modal fusion of partial voltage profiles and histogram data'
+title: 'Techniques for measuring battery system state of power'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
