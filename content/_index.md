@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest journal articles
+      title: Latest News
       subtitle:
       text:
       count: 5
@@ -27,7 +27,7 @@ sections:
         author: ''
         category: ''
         exclude_featured: false
-        publication_type: 'Journal article'
+        publication_type: ''
         tag: ''
       offset: 0
       order: desc
@@ -64,7 +64,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'Journal article'
     design:
       view: citation
       columns: '1'
