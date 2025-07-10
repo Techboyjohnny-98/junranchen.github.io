@@ -116,3 +116,12 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+sharing:
+  enable: true
+  twitter: true
+  facebook: true
+  email: true
+  linkedin: true
+  weibo: false
+  whatsapp: false
