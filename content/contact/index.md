@@ -26,7 +26,7 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/abc419525651/30min'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
