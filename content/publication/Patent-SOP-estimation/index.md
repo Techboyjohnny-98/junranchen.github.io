@@ -6,7 +6,6 @@ title: 'Technique for estimating battery system power capability using machine l
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Qi Yao
   - Phillip Kollmeyer
   - Mina Naguib
   - Carlos Vidal

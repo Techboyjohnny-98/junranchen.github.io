@@ -6,6 +6,7 @@ title: 'Transfer learning based battery state of power estimation techniques wit
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Qi Yao
   - Phillip Kollmeyer
   - Satyam Panchal
   - Yasaman Masoudi
