@@ -7,14 +7,17 @@ title: 'Technique for estimating battery system power capability using machine l
 authors:
   - admin
   - Phillip Kollmeyer
+  - Carlos Vidal
+  - Mini Naguib
   - Satyam Panchal
   - Yasaman Masoudi
+  - Oliver Gross
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
 
-date: '2025-02-06'
+date: '2024-10-17'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
