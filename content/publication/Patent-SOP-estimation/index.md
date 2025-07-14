@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://patents.google.com/patent/US20250044357A1/en?q=(chen)&inventor=junran&oq=junran+chen'
+url_source: ''
 url_video: ''
 
 # Featured image

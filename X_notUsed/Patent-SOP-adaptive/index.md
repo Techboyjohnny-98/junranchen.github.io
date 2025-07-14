@@ -31,7 +31,7 @@ publication_types: ['patent']
 publication: US patent
 publication_short: Patent
 
-abstract: This work is filed by USPTO and not published yet.
+abstract: This patent has been submitted to USPTO, but not published yet.
 
 # Summary. An optional shortened abstract.
 summary: 
