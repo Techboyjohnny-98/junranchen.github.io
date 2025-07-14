@@ -1,5 +1,5 @@
 ---
-title: 'Technique for estimating battery system power capability using machine learning models and search algorithms'
+title: 'Techniques for measuring battery system state of power'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,17 +7,14 @@ title: 'Technique for estimating battery system power capability using machine l
 authors:
   - admin
   - Phillip Kollmeyer
-  - Mina Naguib
-  - Carlos Vidal
   - Satyam Panchal
   - Yasaman Masoudi
-  - Oliver Gross
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
 
-date: '2024-10-17'
+date: '2025-02-06'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +29,7 @@ publication_types: ['patent']
 publication: US patent
 publication_short: Patent
 
-abstract: This work is filed by USPTO and not published yet. (Application number: 18/919,001)
+abstract: A state of power (SOP) measurement technique includes determining an initial power command corresponding to a potential SOP of a battery system and performing an iterative power command searching process including charging the battery system to a fully-charged state of charge (SOC), discharging the battery system to a set of SOC breakpoints until the battery system reaches a fully-discharged SOC, after reaching each SOC breakpoint, applying a power command as a constant power pulse to the battery system, the power command being the initial power command or a subsequently updated power command, and based on whether a current or voltage of the battery system exceeds an error tolerance, updating the initial power command and repeating the iterative power command searching process, or outputting the initial power command or the subsequently updated power command as a measured SOP of the battery system.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,15 +50,15 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://patents.google.com/patent/US20250044357A1/en?q=(chen)&inventor=junran&oq=junran+chen'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Workflow of the proposed multi-modal knowledge fusion based SOH estimation method.'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Workflow of the proposed multi-modal knowledge fusion based SOH estimation method.'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
