@@ -1,5 +1,5 @@
 ---
-title: 'Techniques for measuring battery system state of power'
+title: 'Technique for estimating battery system power capability using machine learning models and search algorithms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
