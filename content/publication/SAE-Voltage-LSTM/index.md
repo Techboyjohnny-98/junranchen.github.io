@@ -1,5 +1,5 @@
 ---
-title: 'Lithium-ion Battery State-of-Health Estimation via Histogram Data, Principal Component Analysis, and Machine Learning'
+title: 'Sequence Training and Data Shuffling to Enhance the Accuracy of Recurrent Neural Network Based Battery Voltage Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,15 +7,17 @@ title: 'Lithium-ion Battery State-of-Health Estimation via Histogram Data, Princ
 authors:
   - admin
   - Phillip Kollmeyer
-  - Fei Chiang
+  - Satyam Panchal
+  - Yasaman Masoudi
+  - Oliver Gross
   - Ali Emadi
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
 
-date: '2023-07-25'
-doi: 'https://doi.org/10.1109/ITEC55900.2023.10187012'
+date: '2024-02-05'
+doi: 'https://doi.org/10.4271/2024-01-2426'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-01T00:00:00Z'
@@ -27,10 +29,10 @@ publication_types: ['paper-conference']
 # paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transportation Electrification Conference & Expo
-publication_short: ITEC
+publication: SAE Technical Paper
+publication_short: SAE
 
-abstract: Lithium-ion batteries are widely used in electric vehicle powertrain systems. As batteries age, their state of health (SOH), indicated by their usable capacity and power capability, decreases. For reliable battery operation, accurate estimation and prediction of SOH are essential. This paper proposes an algorithm for estimating battery capacity SOH from an open-source fast charging dataset with many different charge profile types. Histogram data is created from the measured time domain data and fed into a feedforward neural network (FNN). To capture the impact of different charge profiles on aging, current and state of charge (SOC) are multiplied together to create an additional synthetic input to the estimator. To reduce the number of inputs to the FNN to only those that contain valuable information, we use principal component analysis to reduce the total number of inputs by 80%. An SOH algorithm is proposed that can estimate capacity throughout the battery’s life with a 1.03% root mean square percentage error (RMSPE) and 0.68% mean absolute percentage error (MAPE).
+abstract: Battery terminal voltage modelling is crucial for various applications, including electric vehicles, renewable energy systems, and portable electronics. Terminal voltage models are used to determine how a battery will respond under load and can be used to calculate run-time, power capability, and heat generation and as a component of state estimation approaches, such as for state of charge. Previous studies have shown better voltage modelling accuracy for long short-term memory (LSTM) recurrent neural networks than other traditional methods (e.g., equivalent circuit and electrochemical models). This study presents two new approaches – sequence training and data shuffling – to improve LSTM battery voltage models further, making them an even better candidate for the high-accuracy modelling of lithium-ion batteries. Because the LSTM memory captures information from past time steps, it must typically be trained using one series of continuous data. Instead, the proposed sequence training approach feeds a fixed window of prior data (e.g., 100 seconds) into the LSTM at each time step to initialize the memory states properly and then only uses the output at the current time step. With this method, the LSTM just requires the prior data window to be continuous, thereby allowing the handling of discontinuities. This also means that during the training process, the data can be shuffled randomly, enabling mini-batches to speed up the training significantly. When these approaches were applied, LSTM voltage estimation error was reduced by 22%, from 28.5 mV to 22.3 mV RMS error over four drive cycles and temperatures from -20 to 25°C.
 
 # Summary. An optional shortened abstract.
 summary: 

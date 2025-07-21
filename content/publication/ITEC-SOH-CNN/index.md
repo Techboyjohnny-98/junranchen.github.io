@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 # paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: IIEEE Transportation Electrification Conference & Expo
+publication: IEEE Transportation Electrification Conference & Expo
 publication_short: ITEC
 
 abstract: Accurate state-of-health (SOH) estimation is critical for lithium-ion batteries’ safe and reliable operation. These batteries are widely used for commercial products, including smartphones, laptops, and electric vehicles. In this paper, we develop a convolutional neural network (CNN) based battery SOH estimation model trained to estimate SOH from constant current charge and discharge data. Aging data from four cells, each charged with a different fifteen-minute fast-charging current profile, is used to train and test the SOH estimation model. The model’s accuracy is demonstrated by training with data from one fast-charging aging case and tested using the other three cases, which age at a considerably different rate. The results show that the method is quite robust when the tested cells have more than 80% SOH, with error typically within ±2% and not exceeding ±3%. However, the proposed method has limitations when trying to predict battery health below 80% or when trying to predict battery health from curves with different C-rates. The datasets and the code for the algorithm in this paper are available to download.
