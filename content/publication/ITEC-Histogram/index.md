@@ -14,7 +14,7 @@ authors:
 author_notes:
   # - 'Equal contribution'
 
-date: '2025-07-25'
+date: '2023-07-25'
 doi: 'https://doi.org/10.1109/ITEC55900.2023.10187012'
 
 # Schedule page publish date (NOT publication's date).
