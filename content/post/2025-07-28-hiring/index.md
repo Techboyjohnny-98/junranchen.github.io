@@ -7,7 +7,7 @@ authors: ["admin"]
 tags: ["news", "announcement"]
 ---
 
-
+Ph.D. and Postdoctoral Opportunities - Spring/Fall 2026
 
 <!--more-->
 I am currently seeking highly motivated and qualified 𝗣𝗵.𝗗. 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗣𝗼𝘀𝘁𝗱𝗼𝗰𝘁𝗼𝗿𝗮𝗹 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 to join my lab starting Spring 2026 or Fall 2026. These positions are fully funded and ideal for individuals passionate about cutting-edge energy research.
