@@ -1,6 +1,6 @@
 ---
 title: "We are hiring!"
-date: 2025-07-1028
+date: 2025-07-28
 draft: false
 summary: "Ph.D. and Postdoctoral Opportunities - Spring/Fall 2026"
 authors: ["admin"]
@@ -25,4 +25,4 @@ We are driving innovation in transportation electrification through the developm
  • Experience with tools such as Python, MATLAB, Simulink, and micro-controllers.
  • Demonstrated publication record, research potential, and motivation for innovative research.
 
-<!-- Please fill this form if you are interested: https://lnkd.in/gvvj62M9 -->
+Please fill this form if you are interested: https://lnkd.in/gvvj62M9
