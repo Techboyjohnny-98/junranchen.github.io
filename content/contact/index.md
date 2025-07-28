@@ -11,7 +11,7 @@ sections:
       text: |-
         Let us konw if you are interested in collaberation or joining us.
       email: dr.junran.chen@gmail.com
-      phone: +1-2898872204
+      # phone: +1-2898872204
       address:
         street: ECSN 3.518, 800 W Campbell Rd
         city: Richardson
