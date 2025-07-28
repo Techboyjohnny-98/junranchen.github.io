@@ -12,7 +12,7 @@ Ph.D. and Postdoctoral Opportunities - **Spring/Fall 2026**
 <!--more-->
 I am currently seeking highly motivated and qualified Ph.D. students and Postdoctoral researchers to join my lab starting Spring 2026 or Fall 2026. These positions are fully funded and ideal for individuals passionate about cutting-edge energy research.
 
-**Research Focus**
+**Research Focus:**
 
 We are driving innovation in transportation electrification through the development of next-generation battery management system, including (but not limited to):
 
