@@ -10,7 +10,7 @@ sections:
       title: |
         Battery, Energy, Transportation, & AI (BETA) Lab
       image:
-        filename: welcome.jpg
+        filename: Junran_Lab.jpg
       text: |
         <br>
         
