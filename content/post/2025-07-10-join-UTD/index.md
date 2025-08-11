@@ -2,12 +2,12 @@
 title: "We are founded!"
 date: 2025-07-10
 draft: false
-summary: "Junran Chen will join UT Dallas in Fall 2025 as Assistant Professor."
+summary: "Junran Chen will join UT Dallas in Spring 2026 as Assistant Professor."
 authors: ["admin"]
 tags: ["news", "announcement"]
 ---
 
-Junran Chen will join UT Dallas in 2026 Spring.
+Junran Chen will join UT Dallas in Spring 2026.
 
 <!--more-->
 
