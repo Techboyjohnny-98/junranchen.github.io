@@ -7,7 +7,7 @@ authors: ["admin"]
 tags: ["news", "announcement"]
 ---
 
-Junran Chen will join UT Dallas in 2025 Fall.
+Junran Chen will join UT Dallas in 2026 Spring.
 
 <!--more-->
 
